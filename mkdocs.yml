@@ -4,7 +4,21 @@ nav:
     - 主页: index.md
     - 计算机组成原理研讨课: 
       - 前言: pocc.md
-      - 第一周: pocc/week1.md
+      - 课程信息: pocc/course-information.md
+      - 第一周：Logisim 入门: pocc/week1-logisim-intro.md
+      - 第二周：运算器设计: pocc/week2-calculator-design.md
+      - 第三周：Verilog 入门: pocc/week3-verilog-intro.md
+      - 外部资料: pocc/ext-res.md
+    - Logisim:
+      - logisim.md
+      - Logisim 实用技巧: logisim/logisim-practical-tips.md
+      - Logisim 的 JAVA 环境配置: logisim/logisim-java-environment-configuration.md
+    - Verilog:
+      - verilog.md
+      - Verilog 学习资料: verilog/verilog-study-materials.md
+      - Icarus Verilog for Windows: verilog/verilog-windows.md
+      - iverilog + GTKWave 环境搭建: verilog/iverilog-gtkwave-environment-installation-usage.md
+      - 如何生成原理图: verilog/how-to-generate-schematics.md
     - VOJ: https://oj.verilog.fun:23536
 
 copyright: Copyright &copy; 2022 - 2024 Verilog Fun

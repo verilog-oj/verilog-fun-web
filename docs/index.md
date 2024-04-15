@@ -1,12 +1,32 @@
-# 欢迎来到Verilog编程乐趣网站！
+# 欢迎来到 Verilog 编程乐趣网站！
 
-Verilog编程乐趣网站(verilog.fun)是一个在线学习平台，致力于为学习Verilog编程各位提供更多的乐趣和创造力。
+Verilog 编程乐趣网站 (verilog.fun) 是一个在线学习平台，致力于为学习 Verilog 编程各位的提供更多的乐趣和创造力。
 
-## VOJ - Verilog判题系统
+## 计算机组成原理实验课课程资源
 
-除了传统的学习方式外，我们还引入了[在线Verilog判题系统](https://oj.verilog.fun:23536/)。这个系统不仅能帮助大家检验知识水平，还能以有趣的方式提供即时反馈。解题过程中，您将体验到乐趣与挑战的结合，促进学习动力和深入理解。判题系统基于中科大的[Verilog OJ](https://github.com/YAVGroup/Verilog-OJ
-)修改，同时本站点的VOJ系统遵守AGPL开源协议开源，您可以在[这里](https://github.com/verilog-oj/Verilog-OJ-forked)找到我们的源码。部分题目参考[hdlbits](https://hdlbits.01xz.net/wiki/Main_Page)。
+为了更深入理解计算机组成原理，您将附带学习实验课程。网站存放计算机组成原理研讨课的常见问题，还有一些资料分享。详细请访问 [计算机组成原理研讨课](pocc.md)。
 
-## 加入Verilog乐趣学习
+## Logisim
 
-无论您是刚刚踏入Verilog的学习旅程，还是想通过乐趣提升自己的编程技能，Verilog编程乐趣网站热忱欢迎您的访问！开始与乐趣共舞的Verilog编程之旅吧！
+Logisim 是一款用于数字电路设计和模拟的图形化工具，您探索数字电路设计乐趣的工具。它允许用户在一个友好的界面中创建、修改和模拟数字电路。
+
+Logisim 广泛应用于学生、教育工作者和爱好者的数字逻辑电路学习和实验中。通过 Logisim，您可以轻松地设计、模拟和分析数字电路，将您的创造力和想象力无限发挥。
+
+这里有一些关于 [Logisim 的使用教程](logisim.md)，我们希望让数字电路设计成为您的乐趣之源！
+
+## Verilog
+
+Verilog 是一种硬件描述语言 (HDL)，常用于数字逻辑电路的建模、设计和仿真。它是设计和验证硬件电路的强大工具，广泛应用于数字系统设计、嵌入式系统开发和芯片设计。Verilog 具有简洁、易读的语法，使您能够轻松描述数字系统的行为和结构。以逻辑门、寄存器和模块为基础，您可以构建各种复杂的数字电路和系统。
+
+这里同样有一些关于 [Verilog 的使用教程](verilog.md)，让您享受 Verilog 编程的乐趣和成果！
+
+## VOJ - Verilog 判题系统
+
+除了传统的学习方式外，我们还引入了 [在线 Verilog 判题系统](https://oj.verilog.fun:23536/)。解题过程中，您将体验到乐趣与挑战的结合，促进学习动力和深入理解。
+
+判题系统基于中科大的 [Verilog OJ](https://github.com/YAVGroup/Verilog-OJ
+) 修改，同时本站点的 VOJ 系统遵守 AGPL 开源协议开源，您可以在 [这里](https://github.com/verilog-oj/Verilog-OJ-forked) 找到我们的源码。部分题目参考 [hdlbits](https://hdlbits.01xz.net/wiki/Main_Page)。
+
+## 加入 Verilog 乐趣学习
+
+无论您是刚刚踏入计算机的学习旅程，还是想通过其提升自己的编程技能，Verilog 编程乐趣网站热忱欢迎您的访问！开始与乐趣共舞的 Verilog 编程之旅吧！

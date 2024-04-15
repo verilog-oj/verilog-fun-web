@@ -1,0 +1,19 @@
+## Verilog 资料
+
+***
+
+
+[Verilog 学习资料整理](verilog/iverilog-gtkwave-environment-installation-usage.md)
+
+[在 Windows 系统中使用 iverilog + GTKWave](verilog/verilog-windows.md)
+
+[iverilog + GTKWave 环境安装及使用（Ubuntu 虚拟机）](verilog/iverilog-gtkwave-environment-installation-usage.md)
+
+
+
+***
+
+
+## Verilog 实验
+
+[第 3 周：Verilog 入门](pocc/week3-verilog-intro.md)
