@@ -1,7 +1,7 @@
 ## Verilog 资料
 
 ***
-
+[如何生成原理图](verilog/how-to-generate-schematics.md)
 
 [Verilog 学习资料整理](verilog/iverilog-gtkwave-environment-installation-usage.md)
 
@@ -17,3 +17,5 @@
 ## Verilog 实验
 
 [第 3 周：Verilog 入门](pocc/week3-verilog-intro.md)
+
+[第 4 周：基本功能部件设计](pocc/week4-alu-regfile.md)

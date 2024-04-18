@@ -8,6 +8,7 @@ nav:
       - 第一周：Logisim 入门: pocc/week1-logisim-intro.md
       - 第二周：运算器设计: pocc/week2-calculator-design.md
       - 第三周：Verilog 入门: pocc/week3-verilog-intro.md
+      - 第四周：基本功能部件设计: pocc/week4-alu-regfile.md
       - 外部资料: pocc/ext-res.md
     - Logisim:
       - logisim.md
