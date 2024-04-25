@@ -28,7 +28,7 @@ assign a = b and c;
 
 Verilog 语法中没有使用 `and` 作为逻辑与操作符，取而代之的是 `&&`。
 
-!!! tips "哪些编程语言使用 `and` 作为逻辑与"
+!!! tip "哪些编程语言使用 `and` 作为逻辑与"
     常见编程语言中 Python、Ruby 和 Lua 使用 `and`，我们可能常用 Python 进行编程，因此在 Verilog 实验中容易混淆。
 
 

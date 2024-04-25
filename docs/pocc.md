@@ -33,4 +33,6 @@
 
 [第 4 周：基本功能部件设计](pocc/week4-alu-regfile.md)
 
+[第 5 周：单总线 CPU 设计](pocc/week5-single-bus-cpu.md)
+
 ***

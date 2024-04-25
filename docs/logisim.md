@@ -12,3 +12,5 @@
 [第 1 周：Logisim 入门实验问题汇总](pocc/week1-logisim-intro.md)
 
 [第 2 周：运算器设计实验](pocc/week2-calculator-design.md)
+
+[第 5 周：单总线 CPU 设计](pocc/week5-single-bus-cpu.md)
